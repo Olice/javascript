@@ -1,6 +1,8 @@
-# Airbnb JavaScript Style Guide() {
+# Olice JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
+
+Forked from AirBnB.
 
 [![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
 [![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
